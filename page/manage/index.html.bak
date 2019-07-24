@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>popup</title>
+	<link rel="stylesheet" href="../../css/style.css"  media="all"/>
+	<link rel="stylesheet" href="../../css/manage.css"  media="all"/>
+</head>
+<body class="reset">
+<div class="head">
+	
+</div>
+<div class="menu">
+	
+</div>
+<div class="content">
+	<div class="thevsk-row">
+		<div class="thevsk-h1">
+			hello, <code name="name"></code>
+		</div>
+	</div>
+</div>
+<script src="../../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/popup.js"></script>
+</body>
+</html>

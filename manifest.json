@@ -11,14 +11,15 @@
     },
     "background":
     {
-        "scripts": ["js/background.js"]
+        "page": "page/background.html"
     },
     "browser_action": 
     {
         "default_icon": "img/icon128.png",
         "default_title": "crx",
         "default_popup": "page/popup.html"
-    }
+    },
+	"options_page": "page/manage/index.html"
     // 当某些特定页面打开才显示的图标
     // "page_action":
     // {
